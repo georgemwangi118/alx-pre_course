@@ -1,1 +1,2 @@
-#added a new folder
+added a new folder
+updated readme
